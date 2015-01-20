@@ -6,6 +6,8 @@
     
 }
 #navb{
+    margin: 0;
+    padding: 0;
     border-bottom-style: solid;
     border-bottom-width: 1px;
     border-bottom-color: #EAEAEA;
@@ -27,6 +29,13 @@
     widht:50px;
     height:45px;
     float: right;
+    display: block;
+}
+.rimg2{
+    widht:50px;
+    height:45px;
+    float: right;
+    display: none;
 }
 .loginf{
     min-height: 270px;
@@ -108,7 +117,7 @@
 #ind{
     width:260px;
     height: 20px;
-    margin-top: 8px;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
     background-color: transparent;
@@ -143,4 +152,30 @@
     font-family: 'Nanum Gothic', serif;
     font-size: 30pt;
     line-height: 1.6em;
+}
+.signup{
+    font-family: 'Nanum Gothic', serif;
+    width: 180px;
+    height:285px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    word-break: break-all;
+    line-height: 2.8em;
+}
+.hbtn{
+    width:100px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(64,182,73);
+    border-radius: 15%;
+    line-height: 2.8em;
+    text-align: center;
+    color: white;
+    cursor: pointer;
 }
