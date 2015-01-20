@@ -1,0 +1,146 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+#container{
+    width:100%;
+    margin: 0;
+    padding: 0;
+    
+}
+#navb{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #EAEAEA;
+    widht:100%;
+    height:50px;
+    background-color: rgb(64,182,73);
+}
+.klogo{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 5px;
+    font-family: 'Nanum Gothic', serif;
+    color: white;
+    font-size: 12pt;
+    line-height: 1.6em;
+}
+.rimg{
+    widht:50px;
+    height:45px;
+    float: right;
+}
+.loginf{
+    min-height: 270px;
+    min-width: 270px;
+    background-color: rgb(64,182,73);
+    width:330px;
+    height:330px;
+    border-radius: 8%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    -webkit-box-shadow: 3px 3px 6px #adadad;  /* Safari and Chrome */
+    -moz-box-shadow: 3px 3px 6px #adadad;  /* Firefox */
+    box-shadow: 3px 3px 6px #adadad;  /* CSS3 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#adadad, Direction=135, Strength=6);
+}
+.llogo{
+    
+    color: white;
+    font-family: 'Nanum Gothic', serif;
+    width:250px;
+    height:30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    line-height: 1.6em;
+    text-align: center;
+}
+.idbox{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width:260px;
+    height:30px;
+    border-radius: 25%;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+}
+.pwbox{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width:260px;
+    height:30px;
+    border-radius: 25%;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+}
+.box{
+    width:245px;
+    margin-top: 6px;
+    margin-left: 7px;
+    border:0;
+    
+}
+#ind{
+    width:260px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    color: white;
+}
+.gaip{
+    float: left;
+    font-family: 'Nanum Gothic', serif;
+}
+.find{
+    float: right;
+    font-family: 'Nanum Gothic', serif;
+}
+.lbt{
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    cursor: pointer;
+    border-radius: 15%;
+    width:150px;
+    height:70px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Nanum Gothic', serif;
+    font-size: 30pt;
+    line-height: 1.6em;
+}
