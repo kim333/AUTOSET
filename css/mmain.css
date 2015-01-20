@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+#hmenu{
+    float:right;
+    width:200px;
+    height:310px;
+    background-color: rgb(64,182,73);
+    display: none;
+    z-index: 2012;
+    margin:0;
+    padding: 0;
+}
+.mitem{
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 2.8em;
+    color: white;
+    font-family: 'Nanum Gothic', serif;
+}
